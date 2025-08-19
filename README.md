@@ -20,12 +20,12 @@ This project showcases **System Administrator skills** such as user creation, ac
 
 ##  Project Structure
 
-
+```
 user_management/
 ├── user_management.sh    # Main Bash script
 ├── user_management.log   # Log file (auto-generated after use)
 └── README.md             # Documentation
-
+```
 ---
 
 ##  Getting Started
